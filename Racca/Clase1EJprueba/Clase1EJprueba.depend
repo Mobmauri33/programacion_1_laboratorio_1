@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553041893 source:d:\racca\clase1ejprueba\main.c
+	<stdio.h>
+	<stdlib.h>
+
