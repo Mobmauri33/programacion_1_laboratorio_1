@@ -1,5 +1,6 @@
 # depslib dependency file v1.0
-1553208277 source:d:\racca\clase02-ej1\main.c
+1553215940 source:d:\racca\clase02-ej1\main.c
 	<stdio.h>
 	<stdlib.h>
+	<limits.h>
 
