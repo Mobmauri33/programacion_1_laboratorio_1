@@ -32,4 +32,3 @@ int getFloat(char *mensaje,char *mensajeError,float minimo,float maximo,float re
 }
     return retorno;
 }
-
