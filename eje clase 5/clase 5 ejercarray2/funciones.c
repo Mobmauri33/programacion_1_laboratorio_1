@@ -13,6 +13,14 @@
         }
     }
 
+
+
+
+
+
+
+
+
     int getArrayInt( char* mensaje, char* mensajeError, int maximo, int minimo, int reintentos,int limite, int* arrayResultado)
     {
         int retorno=-1;
